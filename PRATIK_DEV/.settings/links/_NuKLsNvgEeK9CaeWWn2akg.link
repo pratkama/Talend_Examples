@@ -1,0 +1,33 @@
+{
+  "itemId" : "_NuKLsNvgEeK9CaeWWn2akg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_guSt8JzYEeK_Lq_Tgq3rQw",
+    "parameterList" : [ {
+      "id" : "_r0zuIdIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookData"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_bviz0DlLEeOkL67Ja7unaQ",
+    "parameterList" : [ {
+      "id" : "_r_KkBNIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_Server"
+    }, {
+      "id" : "_r_KkAdIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_Port"
+    }, {
+      "id" : "_r_KkAtIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_AdditionalParams"
+    }, {
+      "id" : "_r_KkBdIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_Password"
+    }, {
+      "id" : "_r_KkBtIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_Login"
+    }, {
+      "id" : "_r_KkA9IpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDBCompleted_Database"
+    } ]
+  } ]
+}

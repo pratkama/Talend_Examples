@@ -1,0 +1,26 @@
+{
+  "itemId" : "_0YMRkDocEeOFxYerR36Ymw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_6pgeoDocEeOFxYerR36Ymw",
+    "parameterList" : [ {
+      "id" : "_r6ITAdIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_AdditionalParams"
+    }, {
+      "id" : "_r6ITAtIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_Server"
+    }, {
+      "id" : "_r6ITA9IpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_Database"
+    }, {
+      "id" : "_r6ITBNIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_Password"
+    }, {
+      "id" : "_r6ITBdIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_Port"
+    }, {
+      "id" : "_r6ITBtIpEe2b5Z2Frmp0Rw",
+      "name" : "cookbookDB_Login"
+    } ]
+  } ]
+}
